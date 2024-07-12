@@ -1,0 +1,6 @@
+
+The current data set relied solely from official government institutions, which ceased reporting data over a year ago, 
+causing stagnation. In order to improve the accuracy of the forecasting model, other data sources should be used as well. 
+This can include geographic data showing where infected people live and potential infection clusters.
+Data from hospitals detailing the number of covid 19 cases being treated. 
+As well as data from testing centeres of how many covid 19 tests have been administered and the results. 

@@ -1,0 +1,49 @@
+html,
+body {
+  margin: 0;
+  background-color: #1869F4;
+  font-family: Inter;
+  height: 100%;
+}
+
+#app {
+  height: 100%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+main {
+  background-color: #F1F5FD;
+  height: 90%;
+  width: 90%;
+  border-radius: 5em;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-image: url('./doctor.png');
+  background-size: 50%;
+  background-repeat: no-repeat;
+  background-position: 120% 50%;
+}
+
+.heading {
+  margin: 0;
+  font-size: 50px;
+  letter-spacing: -0.05em;
+  color: #1869F4;
+}
+
+.diagram-container {
+  display: flex;
+  flex-direction: row;
+  padding: 20px;
+  align-items: center;
+}
+
+.diagram-container>div {
+  padding: 20px;
+  width: 50%;
+}
